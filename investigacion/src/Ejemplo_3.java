@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class Ejemplo_3 {
     public static void main(String[] args) {
-
+        /*Pide al usuario que ingrese números enteros hasta que escriba -1. Al finalizar, muestra cuántos números positivos fueron ingresados*/
         int numero;
         int contador = 0;
 
